@@ -5,3 +5,6 @@ This try to fix Voicemeeter microphone crackling in Discord.
 
 Thanks to Kamikace DAN for solution, it saved my Discord..
 Thanks to WaR|OrD29a for discovering me the solution of Kamikace DAN.
+
+.NET 5.0 is necessary for operation
+Is necessary run as administrator to work properly
