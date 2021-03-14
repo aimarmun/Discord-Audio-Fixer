@@ -6,7 +6,9 @@
     <RootNamespace>Discord_Audio_Fixer</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
-
+	<PropertyGroup>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+	</PropertyGroup>
   <ItemGroup>
     <Compile Update="Properties\Settings.Designer.cs">
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
