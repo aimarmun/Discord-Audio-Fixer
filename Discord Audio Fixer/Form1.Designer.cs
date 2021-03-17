@@ -71,9 +71,9 @@ namespace Discord_Audio_Fixer
             this.checkBoxFixOnStart.AutoSize = true;
             this.checkBoxFixOnStart.Location = new System.Drawing.Point(13, 233);
             this.checkBoxFixOnStart.Name = "checkBoxFixOnStart";
-            this.checkBoxFixOnStart.Size = new System.Drawing.Size(163, 19);
+            this.checkBoxFixOnStart.Size = new System.Drawing.Size(159, 19);
             this.checkBoxFixOnStart.TabIndex = 2;
-            this.checkBoxFixOnStart.Text = "Fix if need and minimiced";
+            this.checkBoxFixOnStart.Text = "Fix on start and minimize";
             this.checkBoxFixOnStart.UseVisualStyleBackColor = true;
             this.checkBoxFixOnStart.CheckedChanged += new System.EventHandler(this.checkBoxFix_CheckedChanged);
             // 

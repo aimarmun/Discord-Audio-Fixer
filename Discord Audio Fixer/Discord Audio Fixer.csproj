@@ -8,6 +8,9 @@
   </PropertyGroup>
 	<PropertyGroup>
 		<ApplicationManifest>app.manifest</ApplicationManifest>
+		<SignAssembly>true</SignAssembly>
+		<DelaySign>false</DelaySign>
+		<AssemblyOriginatorKeyFile>ClaveDiscordAudioFixer.pfx</AssemblyOriginatorKeyFile>
 	</PropertyGroup>
   <ItemGroup>
     <Compile Update="Properties\Settings.Designer.cs">

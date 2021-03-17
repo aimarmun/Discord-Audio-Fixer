@@ -7,7 +7,7 @@ namespace Discord_Audio_Fixer
 {
     public partial class Form1 : Form
     {
-        private readonly string version = "0.1";
+        private readonly string version = "0.2";
         public Form1()
         {
             InitializeComponent();
@@ -43,9 +43,15 @@ namespace Discord_Audio_Fixer
                 }
             }
             if (statusDefault)
+            {
                 label.Text = "audiodg.exe are running in defaults Windows process";
+                label.ForeColor = Label.DefaultForeColor;
+            }
             else
-                label.Text = "audiodg.exe Fixed for Discord!";
+            {
+                label.Text = "Fixed!";
+                label.ForeColor = System.Drawing.Color.DarkGreen;
+            }
         }
 
         private void Fix()
