@@ -10,5 +10,7 @@ Thanks to **WaR|OrD29a** for discovering me the solution of Kamikace DAN.
 
 Is necessary run as administrator to work properly
 
+![Default](https://github.com/aimarmun/Discord-Audio-Fixer/blob/master/default.JPG) ![Fixed](https://github.com/aimarmun/Discord-Audio-Fixer/blob/master/Fixed.JPG)
+
 Downloads:
 https://github.com/aimarmun/Discord-Audio-Fixer/releases
