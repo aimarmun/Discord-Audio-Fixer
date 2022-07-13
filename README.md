@@ -13,4 +13,4 @@ Is necessary run as administrator to work properly
 ![Default](https://github.com/aimarmun/Discord-Audio-Fixer/blob/master/default.JPG) ![Fixed](https://github.com/aimarmun/Discord-Audio-Fixer/blob/master/Fixed.JPG)
 
 Downloads:
-https://github.com/aimarmun/Discord-Audio-Fixer/releases
+https://github.com/aimarmun/Discord-Audio-Fixer/releases/tag/0.2
